@@ -1,4 +1,4 @@
-**TUTOR Landing Page**
+## **TUTOR Landing Page**
 
 This repository contains a landing page that has been created using HTML and CSS. The landing page can be accessed using the following link: [Landing Page](https://660a5b567bbc71671a06c99d--teal-madeleine-8d8cd4.netlify.app/#).
 
